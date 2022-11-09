@@ -1,6 +1,6 @@
-## Ola, sou Douglas Coelho, desenvolvedor web e estudante de tecnologia!
+## Ola, sou Douglas Coelho, desenvolvedor web, engenheiro e estudante de tecnologia!
 
-## Formado em engenheira de computação e estudante da trybe. sou um pernambucano arretado, gosto muito de viajar, fazer trilhas, esportes, games, amo animais e viver experiencias. Participo de projetos da minha cidade como o ilha limpa onde todos os voluntários se juntam, para coletar os lixos produzidos pela população, que divide os estados PE e BA. A tecnologia está na minha vida de forma muito intensa pois adoro ver como as coisas coisas funcionam desde a criação de um algoritmo, ver cada passo dele tomando forma me faz vibrar. No que eu puder ajudar estou a uma mensagem de distancia!
+## Formado em engenheira de computação e desenvolvimento web pela Trybe. Pernambucano arretado, amante da tecnologia, gosto muito de fazer trilhas, amo animais e viver experiencias. Participo de projetos da minha cidade como o ilha limpa onde todos os voluntários se juntam, para coletar os lixos produzidos pela população, que divide os estados PE e BA. A tecnologia está na minha vida de forma muito intensa pois adoro ver como as coisas coisas funcionam desde a criação de um algoritmo, ver cada passo dele tomando forma me faz vibrar. No que eu puder ajudar estou a uma mensagem de distancia!
 
 
 <div>
