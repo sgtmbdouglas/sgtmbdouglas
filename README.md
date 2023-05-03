@@ -1,6 +1,6 @@
 ## Estudante de tecnologia!
 
-## Formado em engenheira de computação e desenvolvimento Web, agora estudando a linguagem C# mas com algumas boas praticas nas linguagens JavaScript usando HOFs, React, RTL, Docker, SQL, Node, ORM, Heroku, TypeScript, Express, POO, MongoDB, NoSQL e Python usando raspagem de dados, recursividade, hashmaps, Sets, estudo de no, listas encadeadas, pilhas e filas, sempre usando de testes Unitários ou de integração em cada linguagem.!
+## Desenvolvedor Web, agora estudando analise de dados com o google, em busca de uma vaga como dev. Com boas praticas nas linguagens JavaScript usando HOFs, React, RTL, Docker, SQL, Node, ORM, Heroku, TypeScript, Express, POO, MongoDB, NoSQL e Python usando raspagem de dados, recursividade, hashmaps, Sets, estudo de no, listas encadeadas, pilhas e filas, sempre usando de testes Unitários ou de integração em cada linguagem.!
 
 
 <div>
